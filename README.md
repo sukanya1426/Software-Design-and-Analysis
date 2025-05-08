@@ -1,6 +1,6 @@
-# 🧑‍💼 User Management System with Role
+# User Management System with Role
 
-A Spring Boot 3.x application implementing **Clean Architecture** principles to manage users and their role assignments. Built with a strong separation of concerns, this project ensures scalability, maintainability, and clarity between business logic and infrastructure.
+A Spring Boot application implementing **Clean Architecture** principles to manage users and their role assignments. Built with a strong separation of concerns, this project ensures scalability, maintainability, and clarity between business logic and infrastructure.
 
 ## 🚀 Key Features
 
@@ -8,7 +8,6 @@ A Spring Boot 3.x application implementing **Clean Architecture** principles to 
 - **User Operations**: Create and retrieve user records
 - **Role Management**: Define and maintain system roles
 - **Role Assignment**: Associate roles with users
-- **Data Validation**: Enforce proper email formats and required fields
 
 ### 🏛️ Architectural Highlights
 - **Clean Architecture**: Strict separation of `domain`, `application`, and `infrastructure` layers
@@ -27,9 +26,9 @@ A Spring Boot 3.x application implementing **Clean Architecture** principles to 
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
-### ✅ Prerequisites
+### Prerequisites
 - Java 17
 - Maven 3.8+
 
